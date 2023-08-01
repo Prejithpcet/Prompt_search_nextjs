@@ -1,4 +1,3 @@
-//Actual Home of the application
 import Feed from "@components/Feed";
 
 const Home = () => {
